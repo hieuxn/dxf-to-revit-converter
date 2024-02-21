@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+                <Name>DXFImporter</Name>
+                <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\DXFImporter\DXFImporter.dll</Assembly>
+                <AddInId>E6A644B0-A219-4858-9D36-97308F3B3F42</AddInId>
+                <FullClassName>DXFImporter.Application</FullClassName>
+                <VendorId>Arent3D</VendorId>
+                <VendorDescription>Arent3D</VendorDescription>
+    </AddIn>
+</RevitAddIns>
